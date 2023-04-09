@@ -1,0 +1,24 @@
+Requirements
+
+
+1. Generic ESP8266 Nodemcu Esp8266 https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W
+
+2. 4 Channel 5V Relay Module Control  https://www.amazon.in/Robotbanao-Optocoupler-Channel-Control-Arduino/dp/B07DZR7SLH/ref=sr_1_1_sspa?crid=3J6CKO3UYH2WP&keywords=4%2Bchannel%2Brelay%2Bmodule&qid=1681065019&s=industrial&sprefix=4%2Bchanel%2Bre%2Cindustrial%2C218&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+3. Jumper Wires  https://www.amazon.in/IEIDidacticsTM-Jumper-Wires-Female-jumper/dp/B099R6HS7M/ref=sr_1_1_sspa?keywords=jumper%2Bwires&qid=1681065067&s=industrial&sprefix=jum%2Cindustrial%2C257&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+
+
+Step:1   Sign up in sinric pro  (Watch Video On youtube)
+
+Step:2   Create Room 
+
+Step:3   Create Device 
+
+
+Step:4   Insert Wifi Name And Password in the code  
+
+
+Step:5   Copy Devic Code 
+
+Step:6   Upload Code 
